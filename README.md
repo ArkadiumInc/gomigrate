@@ -1,4 +1,4 @@
-# A [migrate]() docker image built to run in Azure Pipelines
+# A [migrate](https://github.com/golang-migrate/migrate) docker image built to run in Azure Pipelines
 
 ## Why
 Despite `migrate` has it's own docker images it's impossible to run them in Azure Pipelines.
